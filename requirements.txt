@@ -1,6 +1,6 @@
-openai
-python-dotenv
+openai==1.76.0
+python-dotenv==1.1.0
 qdrant-client
-streamlit
-streamlit-audiorecorder
-pydub
+streamlit==1.44.1
+streamlit-audiorecorder==0.0.6
+pydub==0.25.1
